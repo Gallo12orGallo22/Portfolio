@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\DIPLOM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC247CEE-9ADD-42F3-A2DE-91BA1260847F}|DIPLOM\\DIPLOM.csproj|C:\\Users\\user\\source\\repos\\DIPLOM\\diplom\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B\\mat_prihod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC247CEE-9ADD-42F3-A2DE-91BA1260847F}|DIPLOM\\DIPLOM.csproj|solutionrelative:diplom\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B\\mat_prihod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC247CEE-9ADD-42F3-A2DE-91BA1260847F}|DIPLOM\\DIPLOM.csproj|C:\\Users\\user\\source\\repos\\DIPLOM\\diplom\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B\\mat_prihod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC247CEE-9ADD-42F3-A2DE-91BA1260847F}|DIPLOM\\DIPLOM.csproj|solutionrelative:diplom\\\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B\\mat_prihod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC247CEE-9ADD-42F3-A2DE-91BA1260847F}|DIPLOM\\DIPLOM.csproj|c:\\users\\user\\source\\repos\\diplom\\diplom\\\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\u0438\\guids.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC247CEE-9ADD-42F3-A2DE-91BA1260847F}|DIPLOM\\DIPLOM.csproj|solutionrelative:diplom\\\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\u0438\\guids.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC247CEE-9ADD-42F3-A2DE-91BA1260847F}|DIPLOM\\DIPLOM.csproj|C:\\Users\\user\\source\\repos\\DIPLOM\\diplom\\\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\u0438\\guids.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC247CEE-9ADD-42F3-A2DE-91BA1260847F}|DIPLOM\\DIPLOM.csproj|solutionrelative:diplom\\\u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\u0438\\guids.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC247CEE-9ADD-42F3-A2DE-91BA1260847F}|DIPLOM\\DIPLOM.csproj|C:\\Users\\user\\source\\repos\\DIPLOM\\diplom\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC247CEE-9ADD-42F3-A2DE-91BA1260847F}|DIPLOM\\DIPLOM.csproj|solutionrelative:diplom\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC247CEE-9ADD-42F3-A2DE-91BA1260847F}|DIPLOM\\DIPLOM.csproj|C:\\Users\\user\\source\\repos\\DIPLOM\\diplom\\\u043A\u043E\u0441\u043C\u0435\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439_\u043A\u0430\u0431\u0438\u043D\u0435\u0442dataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{EC247CEE-9ADD-42F3-A2DE-91BA1260847F}|DIPLOM\\DIPLOM.csproj|solutionrelative:diplom\\\u043A\u043E\u0441\u043C\u0435\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439_\u043A\u0430\u0431\u0438\u043D\u0435\u0442dataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC247CEE-9ADD-42F3-A2DE-91BA1260847F}|DIPLOM\\DIPLOM.csproj|C:\\Users\\user\\source\\repos\\DIPLOM\\diplom\\\u0437\u0430\u043F\u0438\u0441\u0438\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC247CEE-9ADD-42F3-A2DE-91BA1260847F}|DIPLOM\\DIPLOM.csproj|solutionrelative:diplom\\\u0437\u0430\u043F\u0438\u0441\u0438\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC247CEE-9ADD-42F3-A2DE-91BA1260847F}|DIPLOM\\DIPLOM.csproj|C:\\Users\\user\\source\\repos\\DIPLOM\\diplom\\\u0437\u0430\u043F\u0438\u0441\u0438\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC247CEE-9ADD-42F3-A2DE-91BA1260847F}|DIPLOM\\DIPLOM.csproj|solutionrelative:diplom\\\u0437\u0430\u043F\u0438\u0441\u0438\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Guids.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DIPLOM\\DIPLOM\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\u0438\\Guids.cs",
+              "RelativeDocumentMoniker": "DIPLOM\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\u0438\\Guids.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DIPLOM\\DIPLOM\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\u0438\\Guids.cs",
+              "RelativeToolTip": "DIPLOM\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\u0438\\Guids.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAgwKkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:25:37.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Guids.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DIPLOM\\DIPLOM\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\u0438\\Guids.cs",
+              "RelativeDocumentMoniker": "DIPLOM\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\u0438\\Guids.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DIPLOM\\DIPLOM\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\u0438\\Guids.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "DIPLOM\\\u0421\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u0438\u043A\u0438\\Guids.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:21:11.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mat_prihod.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DIPLOM\\DIPLOM\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B\\mat_prihod.cs",
+              "RelativeDocumentMoniker": "DIPLOM\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B\\mat_prihod.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DIPLOM\\DIPLOM\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B\\mat_prihod.cs",
+              "RelativeToolTip": "DIPLOM\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B\\mat_prihod.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAhwFwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:15:30.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mat_prihod.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DIPLOM\\DIPLOM\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B\\mat_prihod.cs",
+              "RelativeDocumentMoniker": "DIPLOM\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B\\mat_prihod.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DIPLOM\\DIPLOM\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B\\mat_prihod.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "DIPLOM\\\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B\\mat_prihod.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:15:28.041Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DIPLOM\\DIPLOM\\\u0417\u0430\u043F\u0438\u0441\u0438\\Orders.cs",
+              "RelativeDocumentMoniker": "DIPLOM\\\u0417\u0430\u043F\u0438\u0441\u0438\\Orders.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DIPLOM\\DIPLOM\\\u0417\u0430\u043F\u0438\u0441\u0438\\Orders.cs",
+              "RelativeToolTip": "DIPLOM\\\u0417\u0430\u043F\u0438\u0441\u0438\\Orders.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAWwHAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T21:52:08.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Orders.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DIPLOM\\DIPLOM\\\u0417\u0430\u043F\u0438\u0441\u0438\\Orders.cs",
+              "RelativeDocumentMoniker": "DIPLOM\\\u0417\u0430\u043F\u0438\u0441\u0438\\Orders.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DIPLOM\\DIPLOM\\\u0417\u0430\u043F\u0438\u0441\u0438\\Orders.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "DIPLOM\\\u0417\u0430\u043F\u0438\u0441\u0438\\Orders.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T21:52:00.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "\u041A\u043E\u0441\u043C\u0435\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439_\u043A\u0430\u0431\u0438\u043D\u0435\u0442DataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DIPLOM\\DIPLOM\\\u041A\u043E\u0441\u043C\u0435\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439_\u043A\u0430\u0431\u0438\u043D\u0435\u0442DataSet.xsd",
+              "RelativeDocumentMoniker": "DIPLOM\\\u041A\u043E\u0441\u043C\u0435\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439_\u043A\u0430\u0431\u0438\u043D\u0435\u0442DataSet.xsd",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DIPLOM\\DIPLOM\\\u041A\u043E\u0441\u043C\u0435\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439_\u043A\u0430\u0431\u0438\u043D\u0435\u0442DataSet.xsd",
+              "RelativeToolTip": "DIPLOM\\\u041A\u043E\u0441\u043C\u0435\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439_\u043A\u0430\u0431\u0438\u043D\u0435\u0442DataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-06-25T21:35:39.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DIPLOM\\DIPLOM\\Main.cs",
+              "RelativeDocumentMoniker": "DIPLOM\\Main.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DIPLOM\\DIPLOM\\Main.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "DIPLOM\\Main.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:45:08.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
